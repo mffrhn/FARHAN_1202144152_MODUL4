@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MuhammadFarhan_1202144152_studycase4</string>
+    <string name="list_nama_mahasiswa">List Nama Mahasiswa</string>
+    <string name="mulai_asynctask">Mulai AsyncTask</string>
+    <string name="masukkan_url_gambar">Masukkan URL gambar</string>
+    <string name="klik_untuk_mencari_gambar">Klik untuk mencari gambar</string>
+    <string-array name="list_nama">
+        <item>Mike Portnoy</item>
+        <item>Neil Peart</item>
+        <item>Travis Barker</item>
+        <item>Joey Jordison</item>
+        <item>James Owen Sullivan</item>
+        <item>Eno Gitara Ryanto</item>
+        <item>Rayendra Sunito</item>
+    </string-array>
+</resources>
